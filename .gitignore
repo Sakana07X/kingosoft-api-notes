@@ -19,3 +19,7 @@ data.db*
 # 运行态锁文件（本地工具生成，0 字节，不进仓库）
 *.lock
 .dsh-ops-update-*
+
+# Python
+__pycache__/
+*.pyc
