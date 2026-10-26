@@ -1,0 +1,17 @@
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 不属于本仓库的内容（防止误提交）
+config.json
+data.db*
+*.log
+.env
+.venv/
